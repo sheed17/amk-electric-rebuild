@@ -10,6 +10,7 @@ interface ServiceHeroProps {
   panelBody?: string;
   panelItems?: string[];
   panelFootnote?: string;
+  requestHref?: string;
 }
 
 const defaultHighlights = [
@@ -27,6 +28,7 @@ const ServiceHero = ({
   panelBody = "Tell us what you're dealing with and we'll help you figure out the right next step before work begins.",
   panelItems = defaultHighlights,
   panelFootnote = "Serving San Jose, Santa Clara, Sunnyvale, Cupertino, and nearby Bay Area communities.",
+  requestHref = "/contact",
 }: ServiceHeroProps) => (
   <section className="section-dark relative overflow-hidden px-4 pb-14 pt-14 sm:px-6 md:pb-16 md:pt-20 lg:px-8 lg:pb-18">
     <div className="container-tight relative">
@@ -39,7 +41,7 @@ const ServiceHero = ({
           <p className="mb-6 max-w-2xl text-base leading-8 text-primary-foreground/82 md:text-lg">
             {subcopy}
           </p>
-          <CTAButtons variant="dark-section" />
+          <CTAButtons variant="dark-section" requestHref={requestHref} />
 
           <div className="mt-6 grid gap-3 text-sm text-primary-foreground/86 sm:grid-cols-2">
             {highlights.slice(0, 4).map((item) => (

@@ -8,9 +8,10 @@ const ContactPage = () => (
     <ServiceHero
       headline="Contact AMK Electric"
       subcopy="Have a question or need electrical work? Call AMK Electric or fill out the form below and we&apos;ll follow up promptly."
+      requestHref="#request-service"
     />
 
-    <section className="section-padding">
+    <section id="request-service" className="section-padding scroll-mt-28">
       <div className="container-tight">
         <div className="grid lg:grid-cols-3 gap-10">
           <div className="lg:col-span-2">
