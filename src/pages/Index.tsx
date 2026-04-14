@@ -41,10 +41,10 @@ const HomePage = () => (
           <Reveal className="max-w-3xl">
             <p className="section-kicker mb-5">San Jose &amp; Bay Area Electrician</p>
             <h1 className="max-w-4xl text-[3.35rem] font-extrabold tracking-[-0.055em] text-primary-foreground md:text-[4.35rem] xl:text-[4.9rem] xl:leading-[0.98]">
-              Trusted Electrical Services for Homes &amp; Businesses
+              Reliable Electrical Work for Homes &amp; Businesses
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-primary-foreground/80 md:text-[1.18rem]">
-              Jin Electric Co provides residential and commercial electrical work across San Jose,
+              AMK Electric provides residential and commercial electrical work across San Jose,
               Santa Clara, Sunnyvale, Cupertino, and nearby Bay Area communities. Clean work,
               clear communication, and dependable scheduling from the first call forward.
             </p>
@@ -56,7 +56,7 @@ const HomePage = () => (
                 className="h-12 rounded-full px-6 text-[0.78rem] uppercase tracking-[0.16em]"
                 asChild
               >
-                <Link to="/contact">Request a Quote</Link>
+                <Link to="/contact">Request Service</Link>
               </Button>
               <Button
                 variant="white-outline"
@@ -64,9 +64,9 @@ const HomePage = () => (
                 className="h-12 rounded-full border-primary-foreground/18 bg-primary-foreground/5 px-6 text-[0.78rem] uppercase tracking-[0.16em] hover:bg-primary-foreground/12 hover:text-primary-foreground"
                 asChild
               >
-                <a href="tel:4086085701">
+                <a href="tel:4086467828">
                   <Phone className="mr-2 h-4 w-4" />
-                  Call (408) 608-5701
+                  Call (408) 646-7828
                 </a>
               </Button>
             </div>
@@ -97,7 +97,7 @@ const HomePage = () => (
                     Clear scope before the work starts
                   </p>
                   <p className="mt-2 text-sm leading-6 text-primary-foreground/74">
-                    We help you understand the likely path before scheduling begins.
+                  We help you understand the scope and next step before scheduling begins.
                   </p>
                 </div>
                 <div className="rounded-[1.6rem] border border-white/8 bg-white/[0.04] p-5 shadow-[0_18px_48px_-38px_rgba(2,6,23,0.46)]">
@@ -212,7 +212,7 @@ const HomePage = () => (
     <FinalCTA
       eyebrow="Get Started"
       title="Need Electrical Work Done Right?"
-      subtitle="From repairs and panel upgrades to rewiring, lighting, remodel work, and EV chargers, Jin Electric Co is ready to help. Reach out for a quote or give us a call to talk through the project."
+      subtitle="From repairs and panel upgrades to rewiring, lighting, remodel work, and EV chargers, AMK Electric is ready to help. Reach out to request service or give us a call to talk through the project."
     />
   </>
 );

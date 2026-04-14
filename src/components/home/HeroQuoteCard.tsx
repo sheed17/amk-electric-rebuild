@@ -42,10 +42,10 @@ const HeroQuoteCard = () => {
           Request Received
         </p>
         <h2 className="text-[2rem] font-bold tracking-[-0.04em] text-primary-foreground md:text-[2.2rem] md:leading-[1.02]">
-          Thanks, we&apos;ll follow up shortly
+          Thanks, we&apos;ll be in touch shortly
         </h2>
         <p className="mt-4 max-w-md text-sm leading-7 text-primary-foreground/74">
-          We&apos;ll reach out to confirm the project details and next steps. If you need help right away, give us a call.
+          We&apos;ll reach out to confirm the project details and next steps. If the job is urgent, give AMK Electric a call right away.
         </p>
         <a
           href={businessContact.phone.url}
@@ -61,13 +61,13 @@ const HeroQuoteCard = () => {
   return (
     <div className="overflow-hidden rounded-[2rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.1),rgba(255,255,255,0.04))] p-6 shadow-[0_30px_80px_-48px_rgba(2,6,23,0.58)] md:p-7">
       <p className="mb-3 text-[0.72rem] font-semibold uppercase tracking-[0.2em] text-blue-200">
-        Request a Quote
+        Request Service
       </p>
       <h2 className="max-w-sm text-[2rem] font-bold tracking-[-0.04em] text-primary-foreground md:text-[2.25rem] md:leading-[1.02]">
-        Tell us what you need
+        Tell us about the job
       </h2>
       <p className="mt-4 max-w-md text-sm leading-7 text-primary-foreground/72">
-        Share the project, issue, or service you&apos;re looking for and we&apos;ll point you toward the right next step.
+        Share the project, repair, or upgrade you&apos;re planning and we&apos;ll help you with the right next step.
       </p>
 
       <form onSubmit={handleSubmit} className="mt-6 space-y-3.5">
@@ -92,7 +92,7 @@ const HeroQuoteCard = () => {
         <Textarea
           name="details"
           rows={3}
-          placeholder="Brief project details"
+          placeholder="Project details, issue, or service needed"
           className="min-h-[96px] rounded-xl border-white/20 bg-white/94 text-primary placeholder:text-muted-foreground"
         />
 
@@ -101,7 +101,7 @@ const HeroQuoteCard = () => {
           variant="gold"
           className="h-12 w-full rounded-full text-[0.78rem] uppercase tracking-[0.16em]"
         >
-          Submit Request
+          Send Request
         </Button>
       </form>
     </div>

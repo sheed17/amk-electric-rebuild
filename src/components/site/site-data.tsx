@@ -47,8 +47,8 @@ export const topBarItems = [
 
 export const navbarLogo: NonNullable<Navbar1Props["logo"]> = {
   url: "/",
-  alt: "Jin Electric Co logo",
-  title: "Jin Electric Co",
+  alt: "AMK Electric logo",
+  title: "AMK Electric",
 };
 
 export const servicesDropdownItems: MenuItem[] = [
@@ -114,26 +114,26 @@ export const navbarMobileExtraLinks: NonNullable<Navbar1Props["mobileExtraLinks"
 
 export const navbarContact: NonNullable<Navbar1Props["contact"]> = {
   phone: {
-    text: "(408) 608-5701",
-    url: "tel:4086085701",
+    text: "(408) 646-7828",
+    url: "tel:4086467828",
   },
   cta: {
-    text: "Get a Quote",
+    text: "Request Service",
     url: "/contact",
   },
 };
 
 export const businessContact = {
   phone: {
-    text: "(408) 608-5701",
-    url: "tel:4086085701",
+    text: "(408) 646-7828",
+    url: "tel:4086467828",
   },
   email: {
-    text: "luislopez78@yahoo.com",
-    url: "mailto:luislopez78@yahoo.com",
+    text: "amkelectric16@gmail.com",
+    url: "mailto:amkelectric16@gmail.com",
   },
   address: {
-    text: "521 Santa Ana Ave, San Jose, CA 95112",
+    text: "130 Lewis Rd # 8, San Jose, CA 95111",
   },
 } as const;
 

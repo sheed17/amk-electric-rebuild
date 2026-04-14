@@ -16,7 +16,7 @@ const CTAButtons = ({ variant = "default", className }: CTAButtonsProps) => {
     return (
       <div className={cn("flex flex-col gap-3 sm:flex-row", className)}>
         <Button variant="gold" size="lg" className={buttonClassName} asChild>
-          <Link to="/contact">Request a Quote</Link>
+          <Link to="/contact">Request Service</Link>
         </Button>
         <Button
           variant="white-outline"
@@ -27,9 +27,9 @@ const CTAButtons = ({ variant = "default", className }: CTAButtonsProps) => {
           )}
           asChild
         >
-          <a href="tel:4086085701">
+          <a href="tel:4086467828">
             <Phone className="w-4 h-4 mr-2" />
-            (408) 608-5701
+            (408) 646-7828
           </a>
         </Button>
       </div>
@@ -39,7 +39,7 @@ const CTAButtons = ({ variant = "default", className }: CTAButtonsProps) => {
   return (
     <div className={cn("flex flex-col gap-3 sm:flex-row", className)}>
       <Button variant="gold" size="lg" className={buttonClassName} asChild>
-        <Link to="/contact">Request a Quote</Link>
+        <Link to="/contact">Request Service</Link>
       </Button>
       <Button
         variant="outline"
@@ -47,9 +47,9 @@ const CTAButtons = ({ variant = "default", className }: CTAButtonsProps) => {
         className={cn(buttonClassName, "border-border/90 bg-background/70 hover:bg-background")}
         asChild
       >
-        <a href="tel:4086085701">
+        <a href="tel:4086467828">
           <Phone className="w-4 h-4 mr-2" />
-          (408) 608-5701
+          (408) 646-7828
         </a>
       </Button>
     </div>

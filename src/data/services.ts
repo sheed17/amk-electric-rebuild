@@ -23,14 +23,14 @@ export const services: ServiceData[] = [
     slug: "residential-electrical",
     title: "Residential Electrical Services",
     shortTitle: "Residential",
-    metaTitle: "Residential Electrician San Jose | Jin Electric Co",
-    metaDescription: "Licensed residential electrical services in San Jose and the Bay Area. Repairs, panel upgrades, lighting, EV chargers, and remodel wiring. Call (408) 608-5701.",
+    metaTitle: "Residential Electrician San Jose | AMK Electric",
+    metaDescription: "Licensed residential electrical services in San Jose and the Bay Area. Repairs, panel upgrades, lighting, EV chargers, and remodel wiring. Call (408) 646-7828.",
     heroHeadline: "Residential Electrical Services in San Jose",
-    heroSubcopy: "From routine repairs to full remodel wiring, Jin Electric Co provides reliable electrical work for homeowners across San Jose and the Bay Area.",
+    heroSubcopy: "From routine repairs to full remodel wiring, AMK Electric provides reliable electrical work for homeowners across San Jose and the Bay Area.",
     introTitle: "Electrical Work for Your Home",
     introText: [
       "Your home's electrical system touches every part of daily life — from the lights you turn on each morning to the outlets powering your appliances. When something isn't working right, or when you're planning an upgrade, you need an electrician who understands residential systems inside and out.",
-      "Jin Electric Co works with homeowners throughout San Jose, Santa Clara, Sunnyvale, Cupertino, and surrounding Bay Area communities. Whether it's a single outlet replacement or a whole-home rewire, we focus on doing the job right the first time."
+      "AMK Electric works with homeowners throughout San Jose, Santa Clara, Sunnyvale, Cupertino, and surrounding Bay Area communities. Whether it's a single outlet replacement or a whole-home rewire, we focus on doing the job right the first time."
     ],
     signsTitle: "When to Call a Residential Electrician",
     signs: [
@@ -54,7 +54,7 @@ export const services: ServiceData[] = [
       "Surge protection",
       "Remodel and addition wiring",
     ],
-    whyChooseTitle: "Why Homeowners Choose Jin Electric Co",
+    whyChooseTitle: "Why Homeowners Choose AMK Electric",
     whyChoose: [
       { title: "Local and responsive", description: "We're based in San Jose and prioritize clear communication and timely scheduling." },
       { title: "Clean, careful work", description: "We treat your home with respect — clean workspaces, proper installations, and attention to detail." },
@@ -73,14 +73,14 @@ export const services: ServiceData[] = [
     slug: "commercial-electrical",
     title: "Commercial Electrical Services",
     shortTitle: "Commercial",
-    metaTitle: "Commercial Electrician San Jose | Jin Electric Co",
-    metaDescription: "Commercial electrical services for offices, retail, and light commercial spaces in San Jose and the Bay Area. Call Jin Electric Co at (408) 608-5701.",
+    metaTitle: "Commercial Electrician San Jose | AMK Electric",
+    metaDescription: "Commercial electrical services for offices, retail, and light commercial spaces in San Jose and the Bay Area. Call AMK Electric at (408) 646-7828.",
     heroHeadline: "Commercial Electrical Services in San Jose",
-    heroSubcopy: "Jin Electric Co provides dependable electrical work for offices, retail spaces, and light commercial properties across the Bay Area.",
+    heroSubcopy: "AMK Electric provides dependable electrical work for offices, retail spaces, and light commercial properties across the Bay Area.",
     introTitle: "Electrical Support for Your Business",
     introText: [
       "A functioning electrical system is the backbone of any commercial space. Whether you're opening a new office, upgrading a retail location, or dealing with an unexpected outage, downtime costs money and disrupts operations.",
-      "Jin Electric Co works with property managers, business owners, and tenants throughout San Jose and the surrounding Bay Area. We understand that commercial jobs require coordination, reliability, and minimal disruption to your operations."
+      "AMK Electric works with property managers, business owners, and tenants throughout San Jose and the surrounding Bay Area. We understand that commercial jobs require coordination, reliability, and minimal disruption to your operations."
     ],
     signsTitle: "Common Commercial Electrical Needs",
     signs: [
@@ -104,7 +104,7 @@ export const services: ServiceData[] = [
       "Exterior and parking lot lighting",
       "Sign and display lighting",
     ],
-    whyChooseTitle: "Why Businesses Work with Jin Electric Co",
+    whyChooseTitle: "Why Businesses Work with AMK Electric",
     whyChoose: [
       { title: "Minimal disruption", description: "We coordinate around your business hours and work efficiently to keep downtime short." },
       { title: "Clear communication", description: "You'll know the scope, timeline, and cost before we start. We keep you updated throughout the project." },
@@ -123,14 +123,14 @@ export const services: ServiceData[] = [
     slug: "electrical-repairs",
     title: "Electrical Repair Services",
     shortTitle: "Electrical Repairs",
-    metaTitle: "Electrical Repairs San Jose | Jin Electric Co",
-    metaDescription: "Fast, reliable electrical repair services in San Jose. Troubleshooting, outlet repair, breaker issues, and more. Call Jin Electric Co at (408) 608-5701.",
+    metaTitle: "Electrical Repairs San Jose | AMK Electric",
+    metaDescription: "Fast, reliable electrical repair services in San Jose. Troubleshooting, outlet repair, breaker issues, and more. Call AMK Electric at (408) 646-7828.",
     heroHeadline: "Electrical Repairs in San Jose & the Bay Area",
-    heroSubcopy: "When something electrical isn't working right, Jin Electric Co provides prompt troubleshooting and repair for homes and businesses in San Jose.",
+    heroSubcopy: "When something electrical isn't working right, AMK Electric provides prompt troubleshooting and repair for homes and businesses in San Jose.",
     introTitle: "Get Electrical Problems Resolved",
     introText: [
       "Electrical issues range from minor annoyances to genuine safety concerns. A flickering light might just need a new switch, but it could also indicate a loose connection behind the wall. Either way, it's worth getting it checked by a qualified electrician.",
-      "Jin Electric Co handles electrical repairs across San Jose and nearby Bay Area cities. We take the time to properly diagnose the issue before recommending a fix — so you're not paying for guesswork."
+      "AMK Electric handles electrical repairs across San Jose and nearby Bay Area cities. We take the time to properly diagnose the issue before recommending a fix — so you're not paying for guesswork."
     ],
     signsTitle: "Signs You Need Electrical Repair",
     signs: [
@@ -154,7 +154,7 @@ export const services: ServiceData[] = [
       "Ceiling fan and fixture repair",
       "Emergency electrical repair",
     ],
-    whyChooseTitle: "Why Call Jin Electric Co for Repairs",
+    whyChooseTitle: "Why Call AMK Electric for Repairs",
     whyChoose: [
       { title: "Proper diagnosis first", description: "We identify the root cause, not just the symptom. That means fewer callbacks and lasting fixes." },
       { title: "Responsive scheduling", description: "Electrical problems don't wait. We work to get you on the schedule quickly." },
@@ -173,10 +173,10 @@ export const services: ServiceData[] = [
     slug: "panel-upgrades",
     title: "Electrical Panel Upgrades",
     shortTitle: "Panel Upgrades",
-    metaTitle: "Panel Upgrade San Jose | Jin Electric Co",
-    metaDescription: "Electrical panel upgrades in San Jose. Outdated panels, capacity issues, and code compliance. Call Jin Electric Co at (408) 608-5701 for a consultation.",
+    metaTitle: "Panel Upgrade San Jose | AMK Electric",
+    metaDescription: "Electrical panel upgrades in San Jose. Outdated panels, capacity issues, and code compliance. Call AMK Electric at (408) 646-7828 for a consultation.",
     heroHeadline: "Electrical Panel Upgrades in San Jose",
-    heroSubcopy: "Upgrade your home or business electrical panel to meet modern demands. Jin Electric Co handles panel replacements and upgrades throughout the Bay Area.",
+    heroSubcopy: "Upgrade your home or business electrical panel to meet modern demands. AMK Electric handles panel replacements and upgrades throughout the Bay Area.",
     introTitle: "Is Your Electrical Panel Keeping Up?",
     introText: [
       "Your electrical panel is the central hub of your property's electrical system. It distributes power to every circuit in the building — and if it's outdated, undersized, or failing, it can cause problems ranging from nuisance breaker trips to genuine fire hazards.",
@@ -204,7 +204,7 @@ export const services: ServiceData[] = [
       "Labeling and documentation",
       "Coordination with utility company as needed",
     ],
-    whyChooseTitle: "Why Choose Jin Electric Co for Panel Work",
+    whyChooseTitle: "Why Choose AMK Electric for Panel Work",
     whyChoose: [
       { title: "End-to-end handling", description: "We manage the entire process — evaluation, permitting, installation, and inspection." },
       { title: "Proper load calculations", description: "We size your panel based on your actual and anticipated electrical needs, not just a rough estimate." },
@@ -223,14 +223,14 @@ export const services: ServiceData[] = [
     slug: "ev-charger-installation",
     title: "EV Charger Installation",
     shortTitle: "EV Chargers",
-    metaTitle: "EV Charger Installation San Jose | Jin Electric Co",
-    metaDescription: "Home EV charger installation in San Jose. Dedicated circuits, panel evaluation, and Level 2 charger setup. Call Jin Electric Co at (408) 608-5701.",
+    metaTitle: "EV Charger Installation San Jose | AMK Electric",
+    metaDescription: "Home EV charger installation in San Jose. Dedicated circuits, panel evaluation, and Level 2 charger setup. Call AMK Electric at (408) 646-7828.",
     heroHeadline: "EV Charger Installation in San Jose",
-    heroSubcopy: "Charge your electric vehicle at home with a professionally installed Level 2 charger. Jin Electric Co handles the full installation process for Bay Area homeowners.",
+    heroSubcopy: "Charge your electric vehicle at home with a professionally installed Level 2 charger. AMK Electric handles the full installation process for Bay Area homeowners.",
     introTitle: "Home Charging Made Simple",
     introText: [
       "Owning an electric vehicle in the Bay Area makes sense — but waiting for a public charger doesn't. A Level 2 home charger gives you a full charge overnight, every night, without the hassle of finding an available station.",
-      "Jin Electric Co installs EV chargers for homeowners across San Jose, Santa Clara, Cupertino, Sunnyvale, and surrounding communities. We handle everything from the initial panel evaluation to the final charger hookup."
+      "AMK Electric installs EV chargers for homeowners across San Jose, Santa Clara, Cupertino, Sunnyvale, and surrounding communities. We handle everything from the initial panel evaluation to the final charger hookup."
     ],
     signsTitle: "What to Consider Before Installing an EV Charger",
     signs: [
@@ -252,7 +252,7 @@ export const services: ServiceData[] = [
       "Permit coordination and final inspection",
       "Testing and commissioning",
     ],
-    whyChooseTitle: "Why Choose Jin Electric Co for EV Charger Installation",
+    whyChooseTitle: "Why Choose AMK Electric for EV Charger Installation",
     whyChoose: [
       { title: "Complete service", description: "We handle the full scope — panel check, circuit run, charger mount, permitting, and inspection." },
       { title: "Proper panel evaluation", description: "We don't just add a circuit and hope for the best. We evaluate your panel's capacity and plan accordingly." },
@@ -271,14 +271,14 @@ export const services: ServiceData[] = [
     slug: "lighting-installation",
     title: "Lighting Installation",
     shortTitle: "Lighting",
-    metaTitle: "Lighting Installation San Jose | Jin Electric Co",
-    metaDescription: "Professional lighting installation in San Jose. Recessed lights, fixtures, exterior lighting, and LED upgrades. Call Jin Electric Co at (408) 608-5701.",
+    metaTitle: "Lighting Installation San Jose | AMK Electric",
+    metaDescription: "Professional lighting installation in San Jose. Recessed lights, fixtures, exterior lighting, and LED upgrades. Call AMK Electric at (408) 646-7828.",
     heroHeadline: "Lighting Installation in San Jose",
-    heroSubcopy: "Upgrade your home or business lighting with professional installation from Jin Electric Co. Serving San Jose and the Bay Area.",
+    heroSubcopy: "Upgrade your home or business lighting with professional installation from AMK Electric. Serving San Jose and the Bay Area.",
     introTitle: "Better Lighting, Better Spaces",
     introText: [
       "Lighting has a huge impact on how a space looks and feels. The right fixtures, placed well, make a room more functional and more inviting. Poor lighting does the opposite — and outdated fixtures waste energy.",
-      "Jin Electric Co handles lighting installations for homes and businesses throughout San Jose and the surrounding Bay Area. Whether you're adding recessed lighting to a kitchen, updating fixtures throughout your home, or improving exterior security lighting, we do the job right."
+      "AMK Electric handles lighting installations for homes and businesses throughout San Jose and the surrounding Bay Area. Whether you're adding recessed lighting to a kitchen, updating fixtures throughout your home, or improving exterior security lighting, we do the job right."
     ],
     signsTitle: "Common Lighting Projects We Handle",
     signs: [
@@ -302,7 +302,7 @@ export const services: ServiceData[] = [
       "Switch and control upgrades",
       "Commercial lighting installation and retrofits",
     ],
-    whyChooseTitle: "Why Choose Jin Electric Co for Lighting",
+    whyChooseTitle: "Why Choose AMK Electric for Lighting",
     whyChoose: [
       { title: "Layout-aware installation", description: "We help you plan placement that looks right and lights the space properly — not just technically correct, but visually balanced." },
       { title: "Clean ceiling and wall work", description: "Recessed lighting requires precise cutting and wiring. We leave your ceilings looking great." },
@@ -321,14 +321,14 @@ export const services: ServiceData[] = [
     slug: "wiring-rewiring",
     title: "Wiring & Rewiring Services",
     shortTitle: "Wiring & Rewiring",
-    metaTitle: "Wiring & Rewiring San Jose | Jin Electric Co",
-    metaDescription: "Professional wiring and rewiring services in San Jose. Remodel wiring, older home upgrades, and new circuits. Call Jin Electric Co at (408) 608-5701.",
+    metaTitle: "Wiring & Rewiring San Jose | AMK Electric",
+    metaDescription: "Professional wiring and rewiring services in San Jose. Remodel wiring, older home upgrades, and new circuits. Call AMK Electric at (408) 646-7828.",
     heroHeadline: "Wiring & Rewiring in San Jose",
-    heroSubcopy: "Jin Electric Co provides safe, code-compliant wiring and rewiring for homes and businesses across San Jose and the Bay Area.",
+    heroSubcopy: "AMK Electric provides safe, code-compliant wiring and rewiring for homes and businesses across San Jose and the Bay Area.",
     introTitle: "Safe, Modern Wiring for Your Property",
     introText: [
       "The wiring in your walls is easy to forget about — until something goes wrong. Outdated wiring, undersized circuits, or improperly done work can cause everything from nuisance issues to serious safety hazards.",
-      "Whether you're remodeling a kitchen, updating an older home, adding a workshop, or building out a commercial space, Jin Electric Co handles wiring work across San Jose and the surrounding Bay Area. We make sure your wiring is safe, properly sized, and up to code."
+      "Whether you're remodeling a kitchen, updating an older home, adding a workshop, or building out a commercial space, AMK Electric handles wiring work across San Jose and the surrounding Bay Area. We make sure your wiring is safe, properly sized, and up to code."
     ],
     signsTitle: "When Do You Need Wiring or Rewiring?",
     signs: [
@@ -352,7 +352,7 @@ export const services: ServiceData[] = [
       "Commercial buildout wiring",
       "Code correction and compliance wiring",
     ],
-    whyChooseTitle: "Why Choose Jin Electric Co for Wiring",
+    whyChooseTitle: "Why Choose AMK Electric for Wiring",
     whyChoose: [
       { title: "Proper planning", description: "We plan wiring layouts based on how the space will actually be used — not just minimum code requirements." },
       { title: "Clean, organized runs", description: "Our wiring work is neat, labeled, and easy for future electricians to follow." },
@@ -372,14 +372,14 @@ export const services: ServiceData[] = [
     slug: "circuit-breaker-repair",
     title: "Circuit Breaker Repair",
     shortTitle: "Breaker Repair",
-    metaTitle: "Circuit Breaker Repair San Jose | Jin Electric Co",
-    metaDescription: "Circuit breaker repair and replacement in San Jose. Tripping breakers, faulty breakers, and panel issues. Call (408) 608-5701.",
+    metaTitle: "Circuit Breaker Repair San Jose | AMK Electric",
+    metaDescription: "Circuit breaker repair and replacement in San Jose. Tripping breakers, faulty breakers, and panel issues. Call (408) 646-7828.",
     heroHeadline: "Circuit Breaker Repair in San Jose",
-    heroSubcopy: "Tripping breakers and panel issues resolved quickly by Jin Electric Co. Serving San Jose and the Bay Area.",
+    heroSubcopy: "Tripping breakers and panel issues resolved quickly by AMK Electric. Serving San Jose and the Bay Area.",
     introTitle: "Stop the Trips, Fix the Problem",
     introText: [
       "A breaker that trips once in a while is doing its job — protecting your circuits from overload. But when it happens frequently, or a breaker won't reset, there's usually a deeper issue that needs professional attention.",
-      "Jin Electric Co diagnoses and repairs circuit breaker problems for homes and businesses across San Jose. We figure out why it's tripping and fix the underlying cause."
+      "AMK Electric diagnoses and repairs circuit breaker problems for homes and businesses across San Jose. We figure out why it's tripping and fix the underlying cause."
     ],
     signsTitle: "Signs of Breaker Problems",
     signs: [
@@ -413,14 +413,14 @@ export const services: ServiceData[] = [
     slug: "outlet-switch-installation",
     title: "Outlet & Switch Installation",
     shortTitle: "Outlets & Switches",
-    metaTitle: "Outlet & Switch Installation San Jose | Jin Electric Co",
-    metaDescription: "Outlet and switch installation and repair in San Jose. GFCI outlets, USB outlets, dimmer switches. Call (408) 608-5701.",
+    metaTitle: "Outlet & Switch Installation San Jose | AMK Electric",
+    metaDescription: "Outlet and switch installation and repair in San Jose. GFCI outlets, USB outlets, dimmer switches. Call (408) 646-7828.",
     heroHeadline: "Outlet & Switch Installation in San Jose",
-    heroSubcopy: "Professional outlet and switch installation for homes and businesses. Jin Electric Co serves San Jose and the Bay Area.",
+    heroSubcopy: "Professional outlet and switch installation for homes and businesses. AMK Electric serves San Jose and the Bay Area.",
     introTitle: "Outlets and Switches That Work Right",
     introText: [
       "Outlets and switches are the parts of your electrical system you interact with every day. When they're not working properly, not in the right location, or not the right type for the application, it's worth having them updated.",
-      "Jin Electric Co installs and replaces outlets and switches throughout San Jose and the surrounding Bay Area — from simple swaps to adding new outlets where you need them."
+      "AMK Electric installs and replaces outlets and switches throughout San Jose and the surrounding Bay Area — from simple swaps to adding new outlets where you need them."
     ],
     signsTitle: "Common Outlet & Switch Projects",
     signs: [
@@ -456,14 +456,14 @@ export const services: ServiceData[] = [
     slug: "ceiling-fan-installation",
     title: "Ceiling Fan Installation",
     shortTitle: "Ceiling Fans",
-    metaTitle: "Ceiling Fan Installation San Jose | Jin Electric Co",
-    metaDescription: "Ceiling fan installation and replacement in San Jose. New fans, fan-rated boxes, and wiring. Call Jin Electric Co at (408) 608-5701.",
+    metaTitle: "Ceiling Fan Installation San Jose | AMK Electric",
+    metaDescription: "Ceiling fan installation and replacement in San Jose. New fans, fan-rated boxes, and wiring. Call AMK Electric at (408) 646-7828.",
     heroHeadline: "Ceiling Fan Installation in San Jose",
-    heroSubcopy: "Professional ceiling fan installation for homes in San Jose and the Bay Area. Jin Electric Co handles it safely and correctly.",
+    heroSubcopy: "Professional ceiling fan installation for homes in San Jose and the Bay Area. AMK Electric handles it safely and correctly.",
     introTitle: "Ceiling Fans Installed Right",
     introText: [
       "Ceiling fans improve comfort and help with energy efficiency — but they need to be installed correctly. A fan that's not properly supported or wired is a safety issue.",
-      "Jin Electric Co installs ceiling fans for homeowners throughout San Jose. Whether you're replacing an existing fan, adding a fan where there's currently a light fixture, or installing a fan in a new location, we make sure the job is done right."
+      "AMK Electric installs ceiling fans for homeowners throughout San Jose. Whether you're replacing an existing fan, adding a fan where there's currently a light fixture, or installing a fan in a new location, we make sure the job is done right."
     ],
     signsTitle: "Ceiling Fan Installation Scenarios",
     signs: [
@@ -497,14 +497,14 @@ export const services: ServiceData[] = [
     slug: "dedicated-circuits",
     title: "Dedicated Circuits",
     shortTitle: "Dedicated Circuits",
-    metaTitle: "Dedicated Circuit Installation San Jose | Jin Electric Co",
-    metaDescription: "Dedicated circuit installation for appliances, EV chargers, and equipment in San Jose. Call Jin Electric Co at (408) 608-5701.",
+    metaTitle: "Dedicated Circuit Installation San Jose | AMK Electric",
+    metaDescription: "Dedicated circuit installation for appliances, EV chargers, and equipment in San Jose. Call AMK Electric at (408) 646-7828.",
     heroHeadline: "Dedicated Circuit Installation in San Jose",
-    heroSubcopy: "Jin Electric Co installs dedicated circuits for appliances, EV chargers, and equipment in homes and businesses across the Bay Area.",
+    heroSubcopy: "AMK Electric installs dedicated circuits for appliances, EV chargers, and equipment in homes and businesses across the Bay Area.",
     introTitle: "The Right Circuit for the Job",
     introText: [
       "A dedicated circuit serves a single appliance or piece of equipment — nothing else shares it. This ensures reliable power delivery and prevents overload on other circuits.",
-      "Many modern appliances and systems require dedicated circuits by code. Jin Electric Co installs dedicated circuits for homeowners and businesses throughout San Jose and the surrounding Bay Area."
+      "Many modern appliances and systems require dedicated circuits by code. AMK Electric installs dedicated circuits for homeowners and businesses throughout San Jose and the surrounding Bay Area."
     ],
     signsTitle: "When You Need a Dedicated Circuit",
     signs: [
@@ -538,14 +538,14 @@ export const services: ServiceData[] = [
     slug: "smoke-detector-installation",
     title: "Smoke Detector Installation",
     shortTitle: "Smoke Detectors",
-    metaTitle: "Smoke Detector Installation San Jose | Jin Electric Co",
-    metaDescription: "Hardwired smoke and carbon monoxide detector installation in San Jose. Code-compliant placement. Call (408) 608-5701.",
+    metaTitle: "Smoke Detector Installation San Jose | AMK Electric",
+    metaDescription: "Hardwired smoke and carbon monoxide detector installation in San Jose. Code-compliant placement. Call (408) 646-7828.",
     heroHeadline: "Smoke Detector Installation in San Jose",
-    heroSubcopy: "Protect your family with properly installed, hardwired smoke and CO detectors. Jin Electric Co serves San Jose and the Bay Area.",
+    heroSubcopy: "Protect your family with properly installed, hardwired smoke and CO detectors. AMK Electric serves San Jose and the Bay Area.",
     introTitle: "Safety That Works When It Matters",
     introText: [
       "Smoke and carbon monoxide detectors are your first line of defense in an emergency. Hardwired, interconnected detectors provide the most reliable protection — when one goes off, they all go off.",
-      "Jin Electric Co installs hardwired smoke and CO detectors for homeowners in San Jose and throughout the Bay Area. We ensure proper placement, wiring, and code compliance."
+      "AMK Electric installs hardwired smoke and CO detectors for homeowners in San Jose and throughout the Bay Area. We ensure proper placement, wiring, and code compliance."
     ],
     signsTitle: "When to Update Your Detectors",
     signs: [
@@ -579,14 +579,14 @@ export const services: ServiceData[] = [
     slug: "surge-protection",
     title: "Surge Protection",
     shortTitle: "Surge Protection",
-    metaTitle: "Whole-Home Surge Protection San Jose | Jin Electric Co",
-    metaDescription: "Whole-home surge protection installation in San Jose. Protect electronics and appliances from power surges. Call (408) 608-5701.",
+    metaTitle: "Whole-Home Surge Protection San Jose | AMK Electric",
+    metaDescription: "Whole-home surge protection installation in San Jose. Protect electronics and appliances from power surges. Call (408) 646-7828.",
     heroHeadline: "Surge Protection in San Jose",
-    heroSubcopy: "Protect your home's electronics and appliances with whole-home surge protection. Jin Electric Co serves San Jose and the Bay Area.",
+    heroSubcopy: "Protect your home's electronics and appliances with whole-home surge protection. AMK Electric serves San Jose and the Bay Area.",
     introTitle: "Protect What You've Invested In",
     introText: [
       "Power surges can come from lightning, utility grid issues, or even your own appliances cycling on and off. A single surge can damage sensitive electronics, appliances, and HVAC equipment.",
-      "A whole-home surge protector installed at your electrical panel provides a layer of protection for everything in your home. Jin Electric Co installs surge protection for homeowners across San Jose and the Bay Area."
+      "A whole-home surge protector installed at your electrical panel provides a layer of protection for everything in your home. AMK Electric installs surge protection for homeowners across San Jose and the Bay Area."
     ],
     signsTitle: "Why Consider Surge Protection",
     signs: [

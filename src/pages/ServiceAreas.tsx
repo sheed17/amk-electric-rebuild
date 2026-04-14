@@ -7,7 +7,7 @@ const ServiceAreasPage = () => (
   <>
     <ServiceHero
       headline="Service Areas — San Jose & the Bay Area"
-      subcopy="Jin Electric Co provides residential and commercial electrical services throughout San Jose and nearby Bay Area communities."
+      subcopy="AMK Electric provides residential and commercial electrical services throughout San Jose and nearby Bay Area communities."
     />
 
     <section className="section-padding">
@@ -15,7 +15,7 @@ const ServiceAreasPage = () => (
         <SectionHeading title="Where We Work" subtitle="We're based in San Jose and serve homeowners and businesses across Santa Clara County and the surrounding area." />
         <CityGrid />
         <p className="text-sm text-muted-foreground text-center mt-8">
-          Don't see your city listed? Give us a call at <a href="tel:4086085701" className="text-gold font-medium">(408) 608-5701</a> — we may still be able to help. We're happy to confirm availability for nearby areas.
+          Don't see your city listed? Give us a call at <a href="tel:4086467828" className="text-gold font-medium">(408) 646-7828</a> — we may still be able to help. We're happy to confirm availability for nearby areas.
         </p>
       </div>
     </section>

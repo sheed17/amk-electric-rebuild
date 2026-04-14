@@ -35,7 +35,7 @@ const ServicesPage = () => (
     <ServiceHero
       eyebrow="Residential • Commercial • Repairs • Upgrades"
       headline="Electrical Services in San Jose & the Bay Area"
-      subcopy="Jin Electric Co provides a full range of residential and commercial electrical services. From minor repairs to complex installations, we handle it all with quality and care."
+      subcopy="AMK Electric provides a full range of residential and commercial electrical services. From minor repairs to complex installations, we handle it all with quality and care."
       highlights={[
         "Panel upgrades, EV chargers, lighting, rewiring",
         "Residential homes and light commercial spaces",

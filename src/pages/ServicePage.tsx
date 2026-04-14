@@ -142,7 +142,7 @@ const ServicePage = () => {
                 ))}
               </div>
               <a
-                href="tel:4086085701"
+                href="tel:4086467828"
                 className="mt-6 inline-flex items-center gap-2 text-sm uppercase tracking-[0.16em] text-gold transition-colors hover:text-gold-light"
               >
                 <PhoneCall className="h-4 w-4" />
@@ -167,7 +167,7 @@ const ServicePage = () => {
                 to="/contact"
                 className="inline-flex items-center gap-2 rounded-full border border-gold/35 bg-gold px-5 py-3 text-sm font-semibold uppercase tracking-[0.16em] text-accent-foreground transition-transform duration-200 hover:-translate-y-0.5 hover:bg-gold/90"
               >
-                Request a Quote
+                Request Service
                 <ArrowRight className="h-4 w-4" />
               </Link>
             </div>
@@ -178,7 +178,7 @@ const ServicePage = () => {
       <section className="section-dark section-padding">
         <div className="container-tight">
           <SectionHeading
-            eyebrow="Why Jin Electric"
+            eyebrow="Why AMK Electric"
             title={service.whyChooseTitle}
             subtitle="The goal is not just getting the work done. It is making the entire service experience feel organized, responsive, and trustworthy."
             light
@@ -228,7 +228,7 @@ const ServicePage = () => {
                   Serving San Jose &amp; nearby communities
                 </h2>
                 <p className="mt-4 text-base leading-8 text-muted-foreground md:text-lg">
-                  Jin Electric Co schedules {service.shortTitle.toLowerCase()} work throughout Santa Clara County and nearby Bay Area cities for homeowners and small businesses.
+                  AMK Electric schedules {service.shortTitle.toLowerCase()} work throughout Santa Clara County and nearby Bay Area cities for homeowners and small businesses.
                 </p>
               </div>
               <div className="rounded-[1.75rem] border border-border/55 bg-[linear-gradient(180deg,rgba(255,255,255,0.92),rgba(247,248,250,0.88))] p-5 shadow-[inset_0_1px_0_rgba(255,255,255,0.86),0_18px_48px_-36px_rgba(30,42,59,0.18)] md:p-6 lg:p-7">
@@ -283,7 +283,7 @@ const ServicePage = () => {
       <FinalCTA
         eyebrow={`${service.shortTitle} Service`}
         title={`Need ${service.shortTitle.toLowerCase()} done right?`}
-        subtitle={`Whether you need repairs, upgrades, planning help, or a quote for upcoming ${service.shortTitle.toLowerCase()} work, Jin Electric Co is ready to help across San Jose and nearby Bay Area communities.`}
+        subtitle={`Whether you need repairs, upgrades, planning help, or a quote for upcoming ${service.shortTitle.toLowerCase()} work, AMK Electric is ready to help across San Jose and nearby Bay Area communities.`}
       />
     </>
   );

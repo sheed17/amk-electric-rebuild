@@ -6,17 +6,17 @@ import { businessContact } from "@/components/site/site-data";
 const ContactPage = () => (
   <>
     <ServiceHero
-      headline="Contact Jin Electric Co"
-      subcopy="Have a question or need electrical work? Reach out by phone or fill out the form below. We'll get back to you promptly."
+      headline="Contact AMK Electric"
+      subcopy="Have a question or need electrical work? Call AMK Electric or fill out the form below and we&apos;ll follow up promptly."
     />
 
     <section className="section-padding">
       <div className="container-tight">
         <div className="grid lg:grid-cols-3 gap-10">
           <div className="lg:col-span-2">
-            <h2 className="text-2xl font-serif text-primary mb-6">Request a Quote</h2>
+            <h2 className="text-2xl font-serif text-primary mb-6">Request Service</h2>
             <p className="text-muted-foreground text-sm mb-6 leading-relaxed">
-              Tell us about your project or issue and we'll follow up to discuss the details. For immediate needs, call us directly.
+              Tell us about the project, repair, or upgrade you need and we&apos;ll follow up to discuss the details. For immediate needs, call us directly.
             </p>
             <ContactForm />
           </div>

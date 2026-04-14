@@ -132,7 +132,7 @@ export const Card = ({
               <div className="absolute inset-0 bg-gradient-to-t from-slate-950/35 via-slate-950/8 to-transparent" />
               <div className="absolute inset-x-0 bottom-0 flex items-end justify-between p-4 md:p-5">
                 <div className="rounded-full border border-white/15 bg-slate-950/55 px-3 py-1.5 text-[0.68rem] font-semibold uppercase tracking-[0.18em] text-white/84 backdrop-blur-sm">
-                  Jin Electric Co
+                  AMK Electric
                 </div>
                 <div className="rounded-full border border-blue-300/30 bg-blue-400/12 px-3 py-1.5 text-[0.68rem] font-semibold uppercase tracking-[0.18em] text-blue-100 backdrop-blur-sm">
                   Electrical Work

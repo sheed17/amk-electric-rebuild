@@ -21,7 +21,7 @@ const defaultHighlights = [
 const ServiceHero = ({
   headline,
   subcopy,
-  eyebrow = "Jin Electric Co",
+  eyebrow = "AMK Electric",
   highlights = defaultHighlights,
   panelTitle = "Need help right away?",
   panelBody = "Tell us what you're dealing with and we'll help you figure out the right next step before work begins.",
@@ -71,11 +71,11 @@ const ServiceHero = ({
           </div>
 
           <a
-            href="tel:4086085701"
+            href="tel:4086467828"
             className="mt-6 inline-flex w-full items-center justify-center gap-2 rounded-full border border-gold/40 bg-gold px-5 py-3 text-sm uppercase tracking-[0.16em] text-accent-foreground transition-transform duration-300 hover:-translate-y-0.5 hover:bg-gold/90"
           >
             <PhoneCall className="h-4 w-4" />
-            Call (408) 608-5701
+            Call (408) 646-7828
           </a>
           <p className="mt-4 text-sm leading-relaxed text-primary-foreground/64">
             {panelFootnote}

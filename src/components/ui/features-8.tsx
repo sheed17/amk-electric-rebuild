@@ -37,7 +37,7 @@ interface Features8Props {
 }
 
 export function Features8({
-  title = "Why Homeowners & Businesses Choose Jin Electric Co",
+  title = "Why Homeowners & Businesses Choose AMK Electric",
   description = "Local experience, careful workmanship, dependable scheduling, and clear next steps for residential and commercial electrical work.",
   items,
   supportCard,

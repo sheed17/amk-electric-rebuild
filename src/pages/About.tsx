@@ -24,7 +24,7 @@ const expectations = [
 const AboutPage = () => (
   <>
     <ServiceHero
-      headline="About Jin Electric Co"
+      headline="About AMK Electric"
       subcopy="A local electrical contractor serving San Jose and the Bay Area. Residential and commercial electrical work — done right, on time, with clear communication."
     />
 
@@ -32,7 +32,7 @@ const AboutPage = () => (
       <div className="container-tight max-w-3xl">
         <h2 className="text-2xl md:text-3xl font-serif text-primary mb-6">Who We Are</h2>
         <p className="text-muted-foreground leading-relaxed mb-4">
-          Jin Electric Co is a local electrical contractor based in San Jose, California. We provide residential and commercial electrical services for homeowners, property managers, and business owners across the Bay Area.
+          AMK Electric is a local electrical contractor based in San Jose, California. We provide residential and commercial electrical services for homeowners, property managers, and business owners across the Bay Area.
         </p>
         <p className="text-muted-foreground leading-relaxed mb-4">
           We focus on doing good work for local customers — showing up on time, communicating clearly, and delivering quality electrical installations and repairs that meet code and stand the test of time.
@@ -45,7 +45,7 @@ const AboutPage = () => (
 
     <section className="section-padding bg-card">
       <div className="container-tight">
-        <SectionHeading title="What You Can Expect" subtitle="Working with Jin Electric Co means working with people who care about the details." />
+        <SectionHeading title="What You Can Expect" subtitle="Working with AMK Electric means working with people who care about the details." />
         <div className="grid sm:grid-cols-2 gap-6 max-w-3xl mx-auto">
           {expectations.map(item => (
             <div key={item.title}>
@@ -73,7 +73,7 @@ const AboutPage = () => (
 
     <section className="section-padding bg-card">
       <div className="container-tight text-center max-w-2xl mx-auto">
-        <SectionHeading title="Our Service Area" subtitle="Jin Electric Co is based in San Jose and serves homeowners and businesses across the Bay Area, including Santa Clara, Sunnyvale, Cupertino, Campbell, Milpitas, Mountain View, Los Gatos, Saratoga, and Palo Alto." />
+        <SectionHeading title="Our Service Area" subtitle="AMK Electric is based in San Jose and serves homeowners and businesses across the Bay Area, including Santa Clara, Sunnyvale, Cupertino, Campbell, Milpitas, Mountain View, Los Gatos, Saratoga, and Palo Alto." />
       </div>
     </section>
 

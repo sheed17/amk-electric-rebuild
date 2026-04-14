@@ -61,7 +61,7 @@ const ContactForm = () => {
     return (
       <div className="bg-card border border-border rounded-lg p-8 text-center">
         <h3 className="text-xl font-serif text-primary mb-2">Thank you for reaching out</h3>
-        <p className="text-muted-foreground">We'll get back to you as soon as possible. For immediate needs, call us at <a href={businessContact.phone.url} className="text-gold font-medium">{businessContact.phone.text}</a>.</p>
+        <p className="text-muted-foreground">We&apos;ll get back to you as soon as possible. For immediate needs, call us at <a href={businessContact.phone.url} className="text-gold font-medium">{businessContact.phone.text}</a>.</p>
       </div>
     );
   }
@@ -71,16 +71,16 @@ const ContactForm = () => {
       <div className="grid sm:grid-cols-2 gap-4">
         <div>
           <label className="block text-sm font-medium text-primary mb-1.5">Name</label>
-          <Input required name="name" placeholder="Your name" className="bg-background" />
+          <Input required name="name" placeholder="Full name" className="bg-background" />
         </div>
         <div>
           <label className="block text-sm font-medium text-primary mb-1.5">Phone</label>
-          <Input required name="phone" type="tel" placeholder="(408) 555-0000" className="bg-background" />
+          <Input required name="phone" type="tel" placeholder="Best phone number" className="bg-background" />
         </div>
       </div>
       <div>
         <label className="block text-sm font-medium text-primary mb-1.5">Email</label>
-        <Input required name="email" type="email" placeholder="you@example.com" className="bg-background" />
+        <Input required name="email" type="email" placeholder="Best email address" className="bg-background" />
       </div>
       <div className="grid sm:grid-cols-2 gap-4">
         <div>
@@ -98,15 +98,15 @@ const ContactForm = () => {
         </div>
         <div>
           <label className="block text-sm font-medium text-primary mb-1.5">City</label>
-          <Input name="city" placeholder="San Jose" className="bg-background" />
+          <Input name="city" placeholder="City or neighborhood" className="bg-background" />
         </div>
       </div>
       <div>
         <label className="block text-sm font-medium text-primary mb-1.5">Message</label>
-        <Textarea name="message" placeholder="Tell us about your project or issue..." rows={4} className="bg-background" />
+        <Textarea name="message" placeholder="Tell us about the work you need, what is happening, or what you want to install..." rows={4} className="bg-background" />
       </div>
       <Button variant="gold" size="lg" type="submit" className="w-full sm:w-auto">
-        Submit Request
+        Send Request
       </Button>
     </form>
   );

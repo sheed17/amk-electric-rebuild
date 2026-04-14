@@ -102,10 +102,10 @@ const Header = () => {
             ))}
           </div>
           <a
-            href="tel:4086085701"
+            href="tel:4086467828"
             className="font-medium text-gold-light transition-colors hover:text-white"
           >
-            (408) 608-5701
+            (408) 646-7828
           </a>
         </div>
       </div>
@@ -121,10 +121,10 @@ const Header = () => {
         <div className="container-wide flex h-20 items-center justify-between px-4 sm:px-6 lg:px-8">
           <Link to="/" className="group flex items-center gap-3">
             <div className="flex h-11 w-11 items-center justify-center rounded-2xl border border-gold/30 bg-gold text-accent-foreground shadow-[0_20px_40px_-26px_rgba(37,99,235,0.38)]">
-              <span className="text-sm font-semibold tracking-[0.18em]">JE</span>
+              <span className="text-sm font-semibold tracking-[0.18em]">AMK</span>
             </div>
             <div className="leading-none">
-              <span className="block text-lg font-serif text-primary">Jin Electric Co</span>
+              <span className="block text-lg font-serif text-primary">AMK Electric</span>
               <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.18em] text-muted-foreground">
                 Licensed Electrical Contractor
               </span>
@@ -192,11 +192,11 @@ const Header = () => {
 
           <div className="hidden items-center gap-3 xl:flex">
             <a
-              href="tel:4086085701"
+              href="tel:4086467828"
               className="inline-flex items-center gap-2 rounded-full border border-border/80 bg-background/65 px-4 py-2 text-sm text-foreground transition-colors hover:border-gold/25 hover:text-primary"
             >
               <Phone className="h-4 w-4 text-gold" />
-              (408) 608-5701
+              (408) 646-7828
             </a>
             <Button
               variant="gold"
@@ -204,7 +204,7 @@ const Header = () => {
               className="h-11 rounded-full px-5 text-[0.76rem] uppercase tracking-[0.16em]"
               asChild
             >
-              <Link to="/contact">Get a Quote</Link>
+              <Link to="/contact">Request Service</Link>
             </Button>
           </div>
 
@@ -272,18 +272,18 @@ const Header = () => {
 
                 <div className="mt-5 grid gap-3 sm:grid-cols-2">
                   <a
-                    href="tel:4086085701"
+                    href="tel:4086467828"
                     className="inline-flex items-center justify-center gap-2 rounded-full border border-border/85 bg-card px-4 py-3 text-sm font-medium text-foreground"
                   >
                     <Phone className="h-4 w-4 text-gold" />
-                    (408) 608-5701
+                    (408) 646-7828
                   </a>
                   <Button
                     variant="gold"
                     className="h-12 rounded-full text-[0.76rem] uppercase tracking-[0.16em]"
                     asChild
                   >
-                    <Link to="/contact">Get a Quote</Link>
+                    <Link to="/contact">Request Service</Link>
                   </Button>
                 </div>
               </div>

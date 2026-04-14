@@ -71,8 +71,8 @@ export interface Navbar1Props {
 const Navbar1 = ({
   logo = {
     url: "/",
-    alt: "Jin Electric Co",
-    title: "Jin Electric Co",
+    alt: "AMK Electric",
+    title: "AMK Electric",
   },
   menu = [
     { title: "Home", url: "/" },
@@ -145,8 +145,8 @@ const Navbar1 = ({
   ],
   mobileExtraLinks = [],
   contact = {
-    phone: { text: "(408) 608-5701", url: "tel:4086085701" },
-    cta: { text: "Get a Quote", url: "/contact" },
+    phone: { text: "(408) 646-7828", url: "tel:4086467828" },
+    cta: { text: "Request Service", url: "/contact" },
   },
 }: Navbar1Props) => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

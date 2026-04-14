@@ -28,17 +28,17 @@ const Footer = () => (
           <div>
             <div className="mb-5 flex items-center gap-3">
               <div className="flex h-11 w-11 items-center justify-center rounded-2xl border border-gold/25 bg-gold text-accent-foreground shadow-[0_18px_40px_-28px_rgba(37,99,235,0.38)]">
-                <span className="text-sm font-semibold tracking-[0.18em]">JE</span>
+                <span className="text-sm font-semibold tracking-[0.18em]">AMK</span>
               </div>
               <div className="leading-none">
-                <span className="block text-lg font-serif text-primary-foreground">Jin Electric Co</span>
+                <span className="block text-lg font-serif text-primary-foreground">AMK Electric</span>
                 <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.18em] text-primary-foreground/52">
                   San Jose Electrician
                 </span>
               </div>
             </div>
             <p className="max-w-sm text-sm leading-7 text-primary-foreground/72">
-              Jin Electric Co provides residential and commercial electrical work for homeowners,
+              AMK Electric provides residential and commercial electrical work for homeowners,
               property managers, and small businesses across San Jose and nearby Bay Area cities.
             </p>
             <div className="mt-6 flex flex-col gap-3 sm:flex-row xl:flex-col">
@@ -60,7 +60,7 @@ const Footer = () => (
                 to="/contact"
                 className="inline-flex items-center gap-2 text-sm font-medium text-primary-foreground transition-colors hover:text-gold-light"
               >
-                Request a Quote
+                Request Service
                 <ArrowRight className="h-4 w-4" />
               </Link>
             </div>
@@ -115,7 +115,7 @@ const Footer = () => (
 
         <div className="mt-10 border-t border-white/8 pt-6 text-center">
           <p className="text-xs uppercase tracking-[0.16em] text-primary-foreground/42">
-          © {new Date().getFullYear()} Jin Electric Co. All rights reserved. Serving San Jose & the Bay Area.
+          © {new Date().getFullYear()} AMK Electric. All rights reserved. Serving San Jose & the Bay Area.
           </p>
         </div>
       </div>

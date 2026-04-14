@@ -7,7 +7,7 @@ import {
 
 const WhyChooseUs = () => (
   <Features8
-    title="Why Homeowners & Businesses Choose Jin Electric Co"
+    title="Why Homeowners & Businesses Choose AMK Electric"
     description="San Jose homeowners and businesses call us for organized service, careful work, dependable scheduling, and clear next steps from start to finish."
     items={whyChooseUsItems}
     supportCard={whyChooseUsSupportCard}
